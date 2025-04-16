@@ -1,4 +1,4 @@
-﻿namespace Funcionarios.Api
+﻿namespace Funcionarios.Application
 {
     public class Class1
     {
