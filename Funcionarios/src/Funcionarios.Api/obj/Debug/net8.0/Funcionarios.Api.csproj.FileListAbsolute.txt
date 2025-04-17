@@ -31,3 +31,41 @@ C:\Users\Superadmin\Documents\PROJETOS DO GITHUB\Cadastro-de-Funcionarios-Api\Fu
 C:\Users\Superadmin\Documents\PROJETOS DO GITHUB\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\Funcionarios.Api.pdb
 C:\Users\Superadmin\Documents\PROJETOS DO GITHUB\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\Funcionarios.Api.genruntimeconfig.cache
 C:\Users\Superadmin\Documents\PROJETOS DO GITHUB\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\ref\Funcionarios.Api.dll
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\bin\Debug\net8.0\appsettings.json
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\bin\Debug\net8.0\Funcionarios.Api.staticwebassets.runtime.json
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\bin\Debug\net8.0\Funcionarios.Api.exe
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\bin\Debug\net8.0\Funcionarios.Api.deps.json
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\bin\Debug\net8.0\Funcionarios.Api.runtimeconfig.json
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\bin\Debug\net8.0\Funcionarios.Api.dll
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\bin\Debug\net8.0\Funcionarios.Api.pdb
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\Funcionarios.Api.csproj.AssemblyReference.cache
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\Funcionarios.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\Funcionarios.Api.AssemblyInfoInputs.cache
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\Funcionarios.Api.AssemblyInfo.cs
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\Funcionarios.Api.csproj.CoreCompileInputs.cache
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\Funcionarios.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\Funcionarios.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\Funcionarios.Api.RazorAssemblyInfo.cache
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\Funcionarios.Api.RazorAssemblyInfo.cs
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\Funcionarios.Api.sourcelink.json
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\staticwebassets\msbuild.Funcionarios.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Funcionarios.Api.props
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Funcionarios.Api.props
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Funcionarios.Api.props
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\scopedcss\bundle\Funcionarios.Api.styles.css
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\scopedcss\projectbundle\Funcionarios.Api.bundle.scp.css
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\Funciona.F8B6500C.Up2Date
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\Funcionarios.Api.dll
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\refint\Funcionarios.Api.dll
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\Funcionarios.Api.pdb
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\Funcionarios.Api.genruntimeconfig.cache
+C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Api\obj\Debug\net8.0\ref\Funcionarios.Api.dll
