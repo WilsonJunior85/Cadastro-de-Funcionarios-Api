@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Funcionarios.Infra.Data
-build_property.ProjectDir = C:\Users\Superadmin\Documents\PROJETOS DO GITHUB\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Data\
+build_property.ProjectDir = C:\git\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Data\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
