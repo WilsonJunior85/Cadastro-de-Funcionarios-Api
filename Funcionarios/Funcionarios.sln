@@ -5,15 +5,15 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funcionarios.Domain", "src\Funcionarios.Domain\Funcionarios.Domain.csproj", "{3DC7B88B-C0BB-4751-8CB1-A4D951BEB443}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcionarios.Application", "src\Funcionarios.Application\Funcionarios.Application.csproj", "{C847A180-65CF-4977-9613-0CEE43CA75AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funcionarios.Application", "src\Funcionarios.Application\Funcionarios.Application.csproj", "{C847A180-65CF-4977-9613-0CEE43CA75AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcionarios.Api", "src\Funcionarios.Api\Funcionarios.Api.csproj", "{A1B3DA9B-F455-4D49-864F-639862E95EE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funcionarios.Infra.Data", "src\Funcionarios.Infra.Data\Funcionarios.Infra.Data.csproj", "{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcionarios.Infra.Data", "src\Funcionarios.Infra.Data\Funcionarios.Infra.Data.csproj", "{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funcionarios.CrossCutting", "src\Funcionarios.CrossCutting\Funcionarios.CrossCutting.csproj", "{D10E95BD-D238-4BCC-96E3-941EBD61DE51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcionarios.CrossCutting", "src\Funcionarios.CrossCutting\Funcionarios.CrossCutting.csproj", "{D10E95BD-D238-4BCC-96E3-941EBD61DE51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funcionarios.Infra.Services", "src\Funcionarios.Infra.Services\Funcionarios.Infra.Services.csproj", "{BD5E40FC-EE87-4A01-B1B7-11F86B32D2D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcionarios.Infra.Services", "src\Funcionarios.Infra.Services\Funcionarios.Infra.Services.csproj", "{BD5E40FC-EE87-4A01-B1B7-11F86B32D2D3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcionarios.Api", "src\Funcionarios.Api\Funcionarios.Api.csproj", "{8A6E7518-6EC4-43A4-B29E-F0856326375C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,6 @@ Global
 		{C847A180-65CF-4977-9613-0CEE43CA75AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C847A180-65CF-4977-9613-0CEE43CA75AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C847A180-65CF-4977-9613-0CEE43CA75AC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A1B3DA9B-F455-4D49-864F-639862E95EE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A1B3DA9B-F455-4D49-864F-639862E95EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A1B3DA9B-F455-4D49-864F-639862E95EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A1B3DA9B-F455-4D49-864F-639862E95EE7}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -45,6 +41,10 @@ Global
 		{BD5E40FC-EE87-4A01-B1B7-11F86B32D2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD5E40FC-EE87-4A01-B1B7-11F86B32D2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD5E40FC-EE87-4A01-B1B7-11F86B32D2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6E7518-6EC4-43A4-B29E-F0856326375C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6E7518-6EC4-43A4-B29E-F0856326375C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6E7518-6EC4-43A4-B29E-F0856326375C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6E7518-6EC4-43A4-B29E-F0856326375C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

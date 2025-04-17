@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj",
+      "projectUniqueName": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj",
       "projectName": "Funcionarios.Domain",
-      "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj",
+      "projectPath": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj",
       "packagesPath": "C:\\Users\\Superadmin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\obj\\",
+      "outputPath": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
