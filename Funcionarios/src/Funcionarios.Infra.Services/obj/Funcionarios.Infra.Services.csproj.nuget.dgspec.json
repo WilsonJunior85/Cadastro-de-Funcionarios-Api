@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj": {}
+    "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj": {}
   },
   "projects": {
-    "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj": {
+    "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj",
         "projectName": "Funcionarios.Infra.Services",
-        "projectPath": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj",
+        "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj",
         "packagesPath": "C:\\Users\\Superadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\obj\\",
+        "outputPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
