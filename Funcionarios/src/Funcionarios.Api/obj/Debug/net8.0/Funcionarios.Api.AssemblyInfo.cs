@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Funcionarios.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8efaf512a047a99025578412f2926799f75eb3d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5434c44ae762b0546b37bdcfbb4aadd835e9b41c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Funcionarios.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Funcionarios.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
