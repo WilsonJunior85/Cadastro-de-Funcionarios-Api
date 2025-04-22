@@ -7,7 +7,18 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Dto\" />
+    <PackageReference Include="Flunt" Version="2.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.3.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.13">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Identity.Core" Version="8.0.13" />
   </ItemGroup>
 
+
+	<ItemGroup>
+		<ProjectReference Include="..\Funcionarios.Infra.Data\Funcionarios.Infra.Data.csproj" />
+		<ProjectReference Include="..\Funcionarios.Domain\Funcionarios.Domain.csproj" />
+	</ItemGroup>
 </Project>

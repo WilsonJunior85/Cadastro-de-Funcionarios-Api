@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "gDr2tPNDT+4=",
+  "dgSpecHash": "WoAgOR42H8k=",
   "success": true,
   "projectFilePath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Superadmin\\.nuget\\packages\\awssdk.core\\3.7.400.58\\awssdk.core.3.7.400.58.nupkg.sha512",
+    "C:\\Users\\Superadmin\\.nuget\\packages\\awssdk.s3\\3.7.409\\awssdk.s3.3.7.409.nupkg.sha512",
+    "C:\\Users\\Superadmin\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Superadmin\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\Superadmin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Superadmin\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Superadmin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Superadmin\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\Superadmin\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

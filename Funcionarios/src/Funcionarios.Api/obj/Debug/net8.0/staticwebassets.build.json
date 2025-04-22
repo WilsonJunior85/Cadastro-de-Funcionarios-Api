@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+E/dYhTNmEGg0U4Zc6sTNyaow+RAaWIbZyOqBdxXHYs=",
+  "Hash": "LrdA/EePvd3ohUbYGcGv3V/yyUZWYik8lPFHnDR1fC4=",
   "Source": "Funcionarios.Api",
   "BasePath": "_content/Funcionarios.Api",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Funcionarios.Api\\wwwroot",
       "Source": "Funcionarios.Api",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Funcionarios.Api.styles.css",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Funcionarios.Api.styles.css",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "Funcionarios.Api.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Funcionarios.Api.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Funcionarios.Api.styles.css"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Funcionarios.Api.bundle.scp.css",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Funcionarios.Api.bundle.scp.css",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "Funcionarios.Api.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Funcionarios.Api.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Funcionarios.Api.bundle.scp.css"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\css\\site.css",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\favicon.ico",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\js\\site.js",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Funcionarios.Api",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\git\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\wwwroot\\",
       "BasePath": "_content/Funcionarios.Api",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
