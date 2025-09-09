@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HoBuCRDEx/k=",
+  "dgSpecHash": "t9dhdm7r4OE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Superadmin\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512",
     "C:\\Users\\Superadmin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

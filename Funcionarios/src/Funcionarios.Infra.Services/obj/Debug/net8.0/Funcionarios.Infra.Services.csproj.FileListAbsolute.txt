@@ -14,3 +14,19 @@ C:\Users\Superadmin\Documents\PROJETOS DO GITHUB\Cadastro-de-Funcionarios-Api\Fu
 C:\Users\Superadmin\Documents\PROJETOS DO GITHUB\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\obj\Debug\net8.0\refint\Funcionarios.Infra.Services.dll
 C:\Users\Superadmin\Documents\PROJETOS DO GITHUB\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\obj\Debug\net8.0\Funcionarios.Infra.Services.pdb
 C:\Users\Superadmin\Documents\PROJETOS DO GITHUB\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\obj\Debug\net8.0\ref\Funcionarios.Infra.Services.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\bin\Debug\net8.0\Funcionarios.Infra.Services.deps.json
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\bin\Debug\net8.0\Funcionarios.Infra.Services.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\bin\Debug\net8.0\Funcionarios.Infra.Services.pdb
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\bin\Debug\net8.0\Funcionarios.Domain.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\bin\Debug\net8.0\Funcionarios.Domain.pdb
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\obj\Debug\net8.0\Funcionarios.Infra.Services.csproj.AssemblyReference.cache
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\obj\Debug\net8.0\Funcionarios.Infra.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\obj\Debug\net8.0\Funcionarios.Infra.Services.AssemblyInfoInputs.cache
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\obj\Debug\net8.0\Funcionarios.Infra.Services.AssemblyInfo.cs
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\obj\Debug\net8.0\Funcionarios.Infra.Services.csproj.CoreCompileInputs.cache
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\obj\Debug\net8.0\Funcionarios.Infra.Services.sourcelink.json
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\obj\Debug\net8.0\Funciona.DA377144.Up2Date
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\obj\Debug\net8.0\Funcionarios.Infra.Services.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\obj\Debug\net8.0\refint\Funcionarios.Infra.Services.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\obj\Debug\net8.0\Funcionarios.Infra.Services.pdb
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Infra.Services\obj\Debug\net8.0\ref\Funcionarios.Infra.Services.dll

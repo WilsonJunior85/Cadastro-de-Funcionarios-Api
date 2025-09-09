@@ -81,8 +81,8 @@ namespace Funcionarios.Application.Services
                         Departamento = funcionarioCadastro.Departamento,
                         Ativo = funcionarioCadastro.Ativo ?? true,
                         Turno = funcionarioCadastro.Turno,
-                        DataDeCriacao = funcionarioCadastro.DataDeCriacao ?? DateTime.Now,
-                        DataAlteracao = funcionarioCadastro.DataAlteracao ?? DateTime.Now,
+                        DataDeCriacao = DateTime.Now,
+                        DataAlteracao = DateTime.Now,
                         Email = funcionarioCadastro.Email,
 
                     };
@@ -136,7 +136,7 @@ namespace Funcionarios.Application.Services
             funcionarios.Ativo = funcionarioUpdate.Ativo;
             funcionarios.Turno = funcionarioUpdate.Turno;
             funcionarios.DataDeCriacao = funcionarioUpdate.DataDeCriacao;
-            funcionarios.DataAlteracao = funcionarioUpdate.DataAlteracao;
+            funcionarios.DataAlteracao = DateTime.Now;
             funcionarios.Email = funcionarioUpdate.Email;
 
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WoAgOR42H8k=",
+  "dgSpecHash": "USsPBRnnoug=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj",
+  "projectFilePath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Superadmin\\.nuget\\packages\\awssdk.core\\3.7.400.58\\awssdk.core.3.7.400.58.nupkg.sha512",
     "C:\\Users\\Superadmin\\.nuget\\packages\\awssdk.s3\\3.7.409\\awssdk.s3.3.7.409.nupkg.sha512",

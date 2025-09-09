@@ -22,3 +22,27 @@ C:\Users\Superadmin\Documents\PROJETOS DO GITHUB\Cadastro-de-Funcionarios-Api\Fu
 C:\Users\Superadmin\Documents\PROJETOS DO GITHUB\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\obj\Debug\net8.0\Funcionarios.CrossCutting.pdb
 C:\Users\Superadmin\Documents\PROJETOS DO GITHUB\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\obj\Debug\net8.0\Funcionarios.CrossCutting.genruntimeconfig.cache
 C:\Users\Superadmin\Documents\PROJETOS DO GITHUB\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\obj\Debug\net8.0\ref\Funcionarios.CrossCutting.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\bin\Debug\net8.0\Funcionarios.CrossCutting.deps.json
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\bin\Debug\net8.0\Funcionarios.CrossCutting.runtimeconfig.json
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\bin\Debug\net8.0\Funcionarios.CrossCutting.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\bin\Debug\net8.0\Funcionarios.CrossCutting.pdb
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\bin\Debug\net8.0\Funcionarios.Application.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\bin\Debug\net8.0\Funcionarios.Domain.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\bin\Debug\net8.0\Funcionarios.Infra.Data.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\bin\Debug\net8.0\Funcionarios.Infra.Services.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\bin\Debug\net8.0\Funcionarios.Application.pdb
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\bin\Debug\net8.0\Funcionarios.Domain.pdb
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\bin\Debug\net8.0\Funcionarios.Infra.Data.pdb
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\bin\Debug\net8.0\Funcionarios.Infra.Services.pdb
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\obj\Debug\net8.0\Funcionarios.CrossCutting.csproj.AssemblyReference.cache
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\obj\Debug\net8.0\Funcionarios.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\obj\Debug\net8.0\Funcionarios.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\obj\Debug\net8.0\Funcionarios.CrossCutting.AssemblyInfo.cs
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\obj\Debug\net8.0\Funcionarios.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\obj\Debug\net8.0\Funcionarios.CrossCutting.sourcelink.json
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\obj\Debug\net8.0\Funciona.F1FA0E83.Up2Date
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\obj\Debug\net8.0\Funcionarios.CrossCutting.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\obj\Debug\net8.0\refint\Funcionarios.CrossCutting.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\obj\Debug\net8.0\Funcionarios.CrossCutting.pdb
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\obj\Debug\net8.0\Funcionarios.CrossCutting.genruntimeconfig.cache
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.CrossCutting\obj\Debug\net8.0\ref\Funcionarios.CrossCutting.dll

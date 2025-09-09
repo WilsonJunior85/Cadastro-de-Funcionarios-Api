@@ -1,78 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\",
+  "WorkspaceRootPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C847A180-65CF-4977-9613-0CEE43CA75AC}|src\\Funcionarios.Application\\Funcionarios.Application.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.application\\dto\\funcionarioupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C847A180-65CF-4977-9613-0CEE43CA75AC}|src\\Funcionarios.Application\\Funcionarios.Application.csproj|solutionrelative:src\\funcionarios.application\\dto\\funcionarioupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D10E95BD-D238-4BCC-96E3-941EBD61DE51}|src\\Funcionarios.CrossCutting\\Funcionarios.CrossCutting.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.crosscutting\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D10E95BD-D238-4BCC-96E3-941EBD61DE51}|src\\Funcionarios.CrossCutting\\Funcionarios.CrossCutting.csproj|solutionrelative:src\\funcionarios.crosscutting\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C847A180-65CF-4977-9613-0CEE43CA75AC}|src\\Funcionarios.Application\\Funcionarios.Application.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.application\\dto\\funcionariocadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C847A180-65CF-4977-9613-0CEE43CA75AC}|src\\Funcionarios.Application\\Funcionarios.Application.csproj|solutionrelative:src\\funcionarios.application\\dto\\funcionariocadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DC7B88B-C0BB-4751-8CB1-A4D951BEB443}|src\\Funcionarios.Domain\\Funcionarios.Domain.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.domain\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DC7B88B-C0BB-4751-8CB1-A4D951BEB443}|src\\Funcionarios.Domain\\Funcionarios.Domain.csproj|solutionrelative:src\\funcionarios.domain\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}|src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.infra.data\\repositories\\parametros\\funcionarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}|src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.infra.data\\repositories\\parametros\\funcionarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}|src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj|solutionrelative:src\\funcionarios.infra.data\\repositories\\parametros\\funcionarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}|src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.infra.data\\interfaces\\ifuncionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}|src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj|solutionrelative:src\\funcionarios.infra.data\\interfaces\\ifuncionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}|src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.infra.data\\repositories\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}|src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj|solutionrelative:src\\funcionarios.infra.data\\repositories\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C847A180-65CF-4977-9613-0CEE43CA75AC}|src\\Funcionarios.Application\\Funcionarios.Application.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.application\\services\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C847A180-65CF-4977-9613-0CEE43CA75AC}|src\\Funcionarios.Application\\Funcionarios.Application.csproj|solutionrelative:src\\funcionarios.application\\services\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C847A180-65CF-4977-9613-0CEE43CA75AC}|src\\Funcionarios.Application\\Funcionarios.Application.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.application\\interfaces\\ifuncionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C847A180-65CF-4977-9613-0CEE43CA75AC}|src\\Funcionarios.Application\\Funcionarios.Application.csproj|solutionrelative:src\\funcionarios.application\\interfaces\\ifuncionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.api\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|solutionrelative:src\\funcionarios.api\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|solutionrelative:src\\funcionarios.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}|src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.infra.data\\mappings\\funcionariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}|src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.infra.data\\mappings\\funcionariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}|src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj|solutionrelative:src\\funcionarios.infra.data\\mappings\\funcionariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|solutionrelative:src\\funcionarios.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.api\\funcionarios.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|solutionrelative:src\\funcionarios.api\\funcionarios.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.api\\funcionarios.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|solutionrelative:src\\funcionarios.api\\funcionarios.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.api\\extensions\\swaggerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.api\\extensions\\swaggerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|solutionrelative:src\\funcionarios.api\\extensions\\swaggerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.api\\extensions\\authorizationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|solutionrelative:src\\funcionarios.api\\extensions\\authorizationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.api\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|solutionrelative:src\\funcionarios.api\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}|src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.infra.data\\context\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C847A180-65CF-4977-9613-0CEE43CA75AC}|src\\Funcionarios.Application\\Funcionarios.Application.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.application\\services\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C847A180-65CF-4977-9613-0CEE43CA75AC}|src\\Funcionarios.Application\\Funcionarios.Application.csproj|solutionrelative:src\\funcionarios.application\\services\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}|src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.infra.data\\context\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}|src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj|solutionrelative:src\\funcionarios.infra.data\\context\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D10E95BD-D238-4BCC-96E3-941EBD61DE51}|src\\Funcionarios.CrossCutting\\Funcionarios.CrossCutting.csproj|c:\\users\\superadmin\\documents\\projetos do github\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.crosscutting\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D10E95BD-D238-4BCC-96E3-941EBD61DE51}|src\\Funcionarios.CrossCutting\\Funcionarios.CrossCutting.csproj|solutionrelative:src\\funcionarios.crosscutting\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C847A180-65CF-4977-9613-0CEE43CA75AC}|src\\Funcionarios.Application\\Funcionarios.Application.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.application\\dto\\funcionariocadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C847A180-65CF-4977-9613-0CEE43CA75AC}|src\\Funcionarios.Application\\Funcionarios.Application.csproj|solutionrelative:src\\funcionarios.application\\dto\\funcionariocadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC7B88B-C0BB-4751-8CB1-A4D951BEB443}|src\\Funcionarios.Domain\\Funcionarios.Domain.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.domain\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC7B88B-C0BB-4751-8CB1-A4D951BEB443}|src\\Funcionarios.Domain\\Funcionarios.Domain.csproj|solutionrelative:src\\funcionarios.domain\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}|src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.infra.data\\repositories\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}|src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj|solutionrelative:src\\funcionarios.infra.data\\repositories\\funcionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C847A180-65CF-4977-9613-0CEE43CA75AC}|src\\Funcionarios.Application\\Funcionarios.Application.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.application\\interfaces\\ifuncionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C847A180-65CF-4977-9613-0CEE43CA75AC}|src\\Funcionarios.Application\\Funcionarios.Application.csproj|solutionrelative:src\\funcionarios.application\\interfaces\\ifuncionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|solutionrelative:src\\funcionarios.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|solutionrelative:src\\funcionarios.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C847A180-65CF-4977-9613-0CEE43CA75AC}|src\\Funcionarios.Application\\Funcionarios.Application.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.application\\dto\\funcionarioupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C847A180-65CF-4977-9613-0CEE43CA75AC}|src\\Funcionarios.Application\\Funcionarios.Application.csproj|solutionrelative:src\\funcionarios.application\\dto\\funcionarioupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}|src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.infra.data\\interfaces\\ifuncionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E35B8FD-22A9-4FF8-8BAE-96F816A91EF5}|src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj|solutionrelative:src\\funcionarios.infra.data\\interfaces\\ifuncionariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.api\\funcionarios.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|solutionrelative:src\\funcionarios.api\\funcionarios.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.api\\funcionarios.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|solutionrelative:src\\funcionarios.api\\funcionarios.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|c:\\users\\superadmin\\documents\\cursos\\cadastro-de-funcionarios-api\\funcionarios\\src\\funcionarios.api\\extensions\\authorizationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A6E7518-6EC4-43A4-B29E-F0856326375C}|src\\Funcionarios.Api\\Funcionarios.Api.csproj|solutionrelative:src\\funcionarios.api\\extensions\\authorizationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,17 +82,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "FuncionarioModel.cs",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Models\\FuncionarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Models\\FuncionarioModel.cs",
               "RelativeDocumentMoniker": "src\\Funcionarios.Domain\\Models\\FuncionarioModel.cs",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Models\\FuncionarioModel.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Models\\FuncionarioModel.cs",
               "RelativeToolTip": "src\\Funcionarios.Domain\\Models\\FuncionarioModel.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA4wBIAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T13:01:29.728Z",
               "IsPinned": true,
@@ -100,13 +100,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "FuncionarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Services\\FuncionarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Services\\FuncionarioService.cs",
               "RelativeDocumentMoniker": "src\\Funcionarios.Application\\Services\\FuncionarioService.cs",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Services\\FuncionarioService.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Services\\FuncionarioService.cs",
               "RelativeToolTip": "src\\Funcionarios.Application\\Services\\FuncionarioService.cs",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAiwGIAAAAgAAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAIA1wD0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T13:10:29.839Z",
               "IsPinned": true,
@@ -114,13 +114,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "IFuncionarioService.cs",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Interfaces\\IFuncionarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Interfaces\\IFuncionarioService.cs",
               "RelativeDocumentMoniker": "src\\Funcionarios.Application\\Interfaces\\IFuncionarioService.cs",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Interfaces\\IFuncionarioService.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Interfaces\\IFuncionarioService.cs",
               "RelativeToolTip": "src\\Funcionarios.Application\\Interfaces\\IFuncionarioService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABCAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T13:11:27.885Z",
               "IsPinned": true,
@@ -128,13 +128,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "FuncionarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Repositories\\FuncionarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Repositories\\FuncionarioRepository.cs",
               "RelativeDocumentMoniker": "src\\Funcionarios.Infra.Data\\Repositories\\FuncionarioRepository.cs",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Repositories\\FuncionarioRepository.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Repositories\\FuncionarioRepository.cs",
               "RelativeToolTip": "src\\Funcionarios.Infra.Data\\Repositories\\FuncionarioRepository.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAiwDcAAAADAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAiwCsAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T13:14:35.449Z",
               "IsPinned": true,
@@ -142,25 +142,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "IFuncionarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Interfaces\\IFuncionarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Interfaces\\IFuncionarioRepository.cs",
               "RelativeDocumentMoniker": "src\\Funcionarios.Infra.Data\\Interfaces\\IFuncionarioRepository.cs",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Interfaces\\IFuncionarioRepository.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Interfaces\\IFuncionarioRepository.cs",
               "RelativeToolTip": "src\\Funcionarios.Infra.Data\\Interfaces\\IFuncionarioRepository.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T13:16:02.938Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "FuncionarioMap.cs",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Mappings\\FuncionarioMap.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Mappings\\FuncionarioMap.cs",
               "RelativeDocumentMoniker": "src\\Funcionarios.Infra.Data\\Mappings\\FuncionarioMap.cs",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Mappings\\FuncionarioMap.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Mappings\\FuncionarioMap.cs",
               "RelativeToolTip": "src\\Funcionarios.Infra.Data\\Mappings\\FuncionarioMap.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAA2wBIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,13 +169,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FuncionarioQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Repositories\\Parametros\\FuncionarioQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Repositories\\Parametros\\FuncionarioQuery.cs",
               "RelativeDocumentMoniker": "src\\Funcionarios.Infra.Data\\Repositories\\Parametros\\FuncionarioQuery.cs",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Repositories\\Parametros\\FuncionarioQuery.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Repositories\\Parametros\\FuncionarioQuery.cs",
               "RelativeToolTip": "src\\Funcionarios.Infra.Data\\Repositories\\Parametros\\FuncionarioQuery.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA4wBIAAAAqAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T13:18:22.231Z",
               "IsPinned": true,
@@ -184,11 +183,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 0,
               "Title": "Bootstrapper.cs",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.CrossCutting\\Bootstrapper.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.CrossCutting\\Bootstrapper.cs",
               "RelativeDocumentMoniker": "src\\Funcionarios.CrossCutting\\Bootstrapper.cs",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.CrossCutting\\Bootstrapper.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.CrossCutting\\Bootstrapper.cs",
               "RelativeToolTip": "src\\Funcionarios.CrossCutting\\Bootstrapper.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAA0wBAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -198,11 +197,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 6,
               "Title": "ApiContext.cs",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Context\\ApiContext.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Context\\ApiContext.cs",
               "RelativeDocumentMoniker": "src\\Funcionarios.Infra.Data\\Context\\ApiContext.cs",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Context\\ApiContext.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Context\\ApiContext.cs",
               "RelativeToolTip": "src\\Funcionarios.Infra.Data\\Context\\ApiContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -212,13 +211,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "FuncionarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Controllers\\FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Controllers\\FuncionarioController.cs",
               "RelativeDocumentMoniker": "src\\Funcionarios.Api\\Controllers\\FuncionarioController.cs",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Controllers\\FuncionarioController.cs",
               "RelativeToolTip": "src\\Funcionarios.Api\\Controllers\\FuncionarioController.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAWwEkAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T13:20:50.708Z",
               "IsPinned": true,
@@ -230,90 +229,87 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "FuncionarioUpdate.cs",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Dto\\FuncionarioUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Dto\\FuncionarioUpdate.cs",
               "RelativeDocumentMoniker": "src\\Funcionarios.Application\\Dto\\FuncionarioUpdate.cs",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Dto\\FuncionarioUpdate.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Dto\\FuncionarioUpdate.cs",
               "RelativeToolTip": "src\\Funcionarios.Application\\Dto\\FuncionarioUpdate.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA4wBIAAAAqAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T14:56:30.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Funcionarios.Api",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Funcionarios.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Funcionarios.Api.csproj",
               "RelativeDocumentMoniker": "src\\Funcionarios.Api\\Funcionarios.Api.csproj",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Funcionarios.Api.csproj",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Funcionarios.Api.csproj",
               "RelativeToolTip": "src\\Funcionarios.Api\\Funcionarios.Api.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-22T15:35:10.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T15:35:10.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Funcionarios.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Funcionarios.Api.csproj",
+              "RelativeDocumentMoniker": "src\\Funcionarios.Api\\Funcionarios.Api.csproj",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Funcionarios.Api.csproj",
+              "RelativeToolTip": "src\\Funcionarios.Api\\Funcionarios.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T15:35:30.98Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Funcionarios.Api",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Funcionarios.Api.csproj",
-              "RelativeDocumentMoniker": "src\\Funcionarios.Api\\Funcionarios.Api.csproj",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Funcionarios.Api.csproj",
-              "RelativeToolTip": "src\\Funcionarios.Api\\Funcionarios.Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-22T15:35:30.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "src\\Funcionarios.Api\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\appsettings.Development.json",
               "RelativeToolTip": "src\\Funcionarios.Api\\appsettings.Development.json",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAABOAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-22T18:15:34.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 3,
               "Title": "SwaggerExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Extensions\\SwaggerExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Extensions\\SwaggerExtension.cs",
               "RelativeDocumentMoniker": "src\\Funcionarios.Api\\Extensions\\SwaggerExtension.cs",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Extensions\\SwaggerExtension.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Extensions\\SwaggerExtension.cs",
               "RelativeToolTip": "src\\Funcionarios.Api\\Extensions\\SwaggerExtension.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAA4wBYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T15:28:39.279Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "AuthorizationExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Extensions\\AuthorizationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Extensions\\AuthorizationExtensions.cs",
               "RelativeDocumentMoniker": "src\\Funcionarios.Api\\Extensions\\AuthorizationExtensions.cs",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Extensions\\AuthorizationExtensions.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Extensions\\AuthorizationExtensions.cs",
               "RelativeToolTip": "src\\Funcionarios.Api\\Extensions\\AuthorizationExtensions.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAiwCEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T15:20:24.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-22T15:20:24.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "FuncionarioCadastro.cs",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Dto\\FuncionarioCadastro.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Dto\\FuncionarioCadastro.cs",
               "RelativeDocumentMoniker": "src\\Funcionarios.Application\\Dto\\FuncionarioCadastro.cs",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Dto\\FuncionarioCadastro.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Dto\\FuncionarioCadastro.cs",
               "RelativeToolTip": "src\\Funcionarios.Application\\Dto\\FuncionarioCadastro.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA4wBIAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T14:56:45.969Z",
               "EditorCaption": ""
@@ -322,11 +318,11 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Program.cs",
               "RelativeDocumentMoniker": "src\\Funcionarios.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Program.cs",
               "RelativeToolTip": "src\\Funcionarios.Api\\Program.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAIAwwCsAAAAMAAAA",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAswGAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T15:21:26.308Z",
               "EditorCaption": ""

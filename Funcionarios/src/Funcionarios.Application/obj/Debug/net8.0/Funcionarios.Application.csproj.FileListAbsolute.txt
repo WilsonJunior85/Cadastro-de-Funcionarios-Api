@@ -18,3 +18,23 @@ C:\Users\Superadmin\Documents\PROJETOS DO GITHUB\Cadastro-de-Funcionarios-Api\Fu
 C:\Users\Superadmin\Documents\PROJETOS DO GITHUB\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\obj\Debug\net8.0\Funcionarios.Application.pdb
 C:\Users\Superadmin\Documents\PROJETOS DO GITHUB\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\obj\Debug\net8.0\Funcionarios.Application.genruntimeconfig.cache
 C:\Users\Superadmin\Documents\PROJETOS DO GITHUB\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\obj\Debug\net8.0\ref\Funcionarios.Application.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\bin\Debug\net8.0\Funcionarios.Application.deps.json
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\bin\Debug\net8.0\Funcionarios.Application.runtimeconfig.json
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\bin\Debug\net8.0\Funcionarios.Application.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\bin\Debug\net8.0\Funcionarios.Application.pdb
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\bin\Debug\net8.0\Funcionarios.Domain.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\bin\Debug\net8.0\Funcionarios.Infra.Data.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\bin\Debug\net8.0\Funcionarios.Infra.Data.pdb
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\bin\Debug\net8.0\Funcionarios.Domain.pdb
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\obj\Debug\net8.0\Funcionarios.Application.csproj.AssemblyReference.cache
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\obj\Debug\net8.0\Funcionarios.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\obj\Debug\net8.0\Funcionarios.Application.AssemblyInfoInputs.cache
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\obj\Debug\net8.0\Funcionarios.Application.AssemblyInfo.cs
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\obj\Debug\net8.0\Funcionarios.Application.csproj.CoreCompileInputs.cache
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\obj\Debug\net8.0\Funcionarios.Application.sourcelink.json
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\obj\Debug\net8.0\Funciona.0EBB3762.Up2Date
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\obj\Debug\net8.0\Funcionarios.Application.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\obj\Debug\net8.0\refint\Funcionarios.Application.dll
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\obj\Debug\net8.0\Funcionarios.Application.pdb
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\obj\Debug\net8.0\Funcionarios.Application.genruntimeconfig.cache
+C:\Users\Superadmin\Documents\CURSOS\Cadastro-de-Funcionarios-Api\Funcionarios\src\Funcionarios.Application\obj\Debug\net8.0\ref\Funcionarios.Application.dll

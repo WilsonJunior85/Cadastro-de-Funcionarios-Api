@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Funcionarios.Api.csproj": {}
+    "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Funcionarios.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Funcionarios.Api.csproj": {
+    "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Funcionarios.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Funcionarios.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Funcionarios.Api.csproj",
         "projectName": "Funcionarios.Api",
-        "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Funcionarios.Api.csproj",
+        "projectPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\Funcionarios.Api.csproj",
         "packagesPath": "C:\\Users\\Superadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\obj\\",
+        "outputPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -26,21 +26,18 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nugets.redeconecta.net.br": {},
-          "https://nugets.redeconecta.net.br:8181": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.CrossCutting\\Funcionarios.CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.CrossCutting\\Funcionarios.CrossCutting.csproj"
+              "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.CrossCutting\\Funcionarios.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.CrossCutting\\Funcionarios.CrossCutting.csproj"
               },
-              "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj"
+              "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj"
               }
             }
           }
@@ -130,14 +127,14 @@
         }
       }
     },
-    "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Funcionarios.Application.csproj": {
+    "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Funcionarios.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Funcionarios.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Funcionarios.Application.csproj",
         "projectName": "Funcionarios.Application",
-        "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Funcionarios.Application.csproj",
+        "projectPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Funcionarios.Application.csproj",
         "packagesPath": "C:\\Users\\Superadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\obj\\",
+        "outputPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -152,21 +149,18 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nugets.redeconecta.net.br": {},
-          "https://nugets.redeconecta.net.br:8181": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj": {
-                "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj"
+              "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj": {
+                "projectPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj"
               },
-              "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj"
+              "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj"
               }
             }
           }
@@ -225,14 +219,14 @@
         }
       }
     },
-    "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.CrossCutting\\Funcionarios.CrossCutting.csproj": {
+    "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.CrossCutting\\Funcionarios.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.CrossCutting\\Funcionarios.CrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.CrossCutting\\Funcionarios.CrossCutting.csproj",
         "projectName": "Funcionarios.CrossCutting",
-        "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.CrossCutting\\Funcionarios.CrossCutting.csproj",
+        "projectPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.CrossCutting\\Funcionarios.CrossCutting.csproj",
         "packagesPath": "C:\\Users\\Superadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.CrossCutting\\obj\\",
+        "outputPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -247,27 +241,24 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nugets.redeconecta.net.br": {},
-          "https://nugets.redeconecta.net.br:8181": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Funcionarios.Application.csproj": {
-                "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Funcionarios.Application.csproj"
+              "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Funcionarios.Application.csproj": {
+                "projectPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Application\\Funcionarios.Application.csproj"
               },
-              "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj": {
-                "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj"
+              "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj": {
+                "projectPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj"
               },
-              "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj"
+              "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj"
               },
-              "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj": {
-                "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj"
+              "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj": {
+                "projectPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj"
               }
             }
           }
@@ -326,14 +317,14 @@
         }
       }
     },
-    "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj": {
+    "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj",
         "projectName": "Funcionarios.Domain",
-        "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj",
+        "projectPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj",
         "packagesPath": "C:\\Users\\Superadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -348,11 +339,8 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nugets.redeconecta.net.br": {},
-          "https://nugets.redeconecta.net.br:8181": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -406,14 +394,14 @@
         }
       }
     },
-    "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj": {
+    "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj",
         "projectName": "Funcionarios.Infra.Data",
-        "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\Superadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -428,18 +416,15 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nugets.redeconecta.net.br": {},
-          "https://nugets.redeconecta.net.br:8181": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj": {
-                "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj"
+              "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj": {
+                "projectPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj"
               }
             }
           }
@@ -500,14 +485,14 @@
         }
       }
     },
-    "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj": {
+    "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj",
+        "projectUniqueName": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj",
         "projectName": "Funcionarios.Infra.Services",
-        "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj",
+        "projectPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\Funcionarios.Infra.Services.csproj",
         "packagesPath": "C:\\Users\\Superadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\obj\\",
+        "outputPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -522,18 +507,15 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nugets.redeconecta.net.br": {},
-          "https://nugets.redeconecta.net.br:8181": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj": {
-                "projectPath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj"
+              "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj": {
+                "projectPath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Domain\\Funcionarios.Domain.csproj"
               }
             }
           }

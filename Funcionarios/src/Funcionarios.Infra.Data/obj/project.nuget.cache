@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xrs+TPFKu+w=",
+  "dgSpecHash": "lQUWLrnbKHg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Superadmin\\Documents\\PROJETOS DO GITHUB\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\Superadmin\\Documents\\CURSOS\\Cadastro-de-Funcionarios-Api\\Funcionarios\\src\\Funcionarios.Infra.Data\\Funcionarios.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Superadmin\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Superadmin\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

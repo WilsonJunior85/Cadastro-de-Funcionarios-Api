@@ -58,7 +58,22 @@ try
     builder.Services.ConfigureAuthentication(identity);
     builder.Services.SuppressModelStateInvalid();
 
+
     builder.Services.BootstrapDI(conf);
+
+
+    // Habilitar CORS
+    builder.Services.AddCors(options =>
+    {
+        options.AddPolicy("AllowFrontend",
+            policy =>
+            {
+                policy.WithOrigins("http://localhost:5173")
+                      .AllowAnyHeader()
+                      .AllowAnyMethod();
+            });
+    });
+
 
     var info = new OpenApiInfo();
     builder.Configuration.Bind("swaggerInfo", info);
@@ -82,7 +97,8 @@ try
 
     app.UseStaticFiles();
 
-    app.UseCors("CorsPolicy");
+    //app.UseCors("CorsPolicy");
+    app.UseCors("AllowFrontend");
     app.UseRouting();
 
     app.UseAuthentication();
